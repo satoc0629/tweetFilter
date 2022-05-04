@@ -8,7 +8,6 @@
     "type": "module"
   },
   "permissions": [
-    "storage",
     "activeTab",
     "scripting",
     "contextMenus"
